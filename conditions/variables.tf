@@ -10,5 +10,5 @@ variable "instance_type" {
 }
 
 variable "instance_name" {
-    default = "db"
+    default = "backend"
 }
